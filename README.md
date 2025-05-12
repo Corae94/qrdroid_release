@@ -2,8 +2,10 @@
 ![Screenshot](./qrdroidlogo.png)
 
 public repo for the release of the qrdroid apk for android
+
 a simple and fast app to generate and share bidimensional codes and enabling the user to pick the colors for the
 two layers of the generated code. 
+
 The codes can be shared through the internal android APIs as images
 Homepage                             |Bidimensional codes creation page    |Color picker
 ------------------------------------:|------------------------------------:|-------------
